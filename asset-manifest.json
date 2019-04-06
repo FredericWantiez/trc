@@ -1,13 +1,13 @@
 {
-  "main.css": "/FredericWantiez/trc/static/css/main.b9e19a4c.chunk.css",
-  "main.js": "/FredericWantiez/trc/static/js/main.4a4fe38a.chunk.js",
-  "main.js.map": "/FredericWantiez/trc/static/js/main.4a4fe38a.chunk.js.map",
-  "runtime~main.js": "/FredericWantiez/trc/static/js/runtime~main.b370d3fa.js",
-  "runtime~main.js.map": "/FredericWantiez/trc/static/js/runtime~main.b370d3fa.js.map",
-  "static/js/2.98dcc9dd.chunk.js": "/FredericWantiez/trc/static/js/2.98dcc9dd.chunk.js",
-  "static/js/2.98dcc9dd.chunk.js.map": "/FredericWantiez/trc/static/js/2.98dcc9dd.chunk.js.map",
-  "index.html": "/FredericWantiez/trc/index.html",
-  "precache-manifest.479105e68b7c827600b8e14b456fe524.js": "/FredericWantiez/trc/precache-manifest.479105e68b7c827600b8e14b456fe524.js",
-  "service-worker.js": "/FredericWantiez/trc/service-worker.js",
-  "static/css/main.b9e19a4c.chunk.css.map": "/FredericWantiez/trc/static/css/main.b9e19a4c.chunk.css.map"
+  "main.css": "/trc/static/css/main.b9e19a4c.chunk.css",
+  "main.js": "/trc/static/js/main.4a4fe38a.chunk.js",
+  "main.js.map": "/trc/static/js/main.4a4fe38a.chunk.js.map",
+  "runtime~main.js": "/trc/static/js/runtime~main.f9f2f6a0.js",
+  "runtime~main.js.map": "/trc/static/js/runtime~main.f9f2f6a0.js.map",
+  "static/js/2.98dcc9dd.chunk.js": "/trc/static/js/2.98dcc9dd.chunk.js",
+  "static/js/2.98dcc9dd.chunk.js.map": "/trc/static/js/2.98dcc9dd.chunk.js.map",
+  "index.html": "/trc/index.html",
+  "precache-manifest.2066aa8bb5742179c859f51d0e46bf2b.js": "/trc/precache-manifest.2066aa8bb5742179c859f51d0e46bf2b.js",
+  "service-worker.js": "/trc/service-worker.js",
+  "static/css/main.b9e19a4c.chunk.css.map": "/trc/static/css/main.b9e19a4c.chunk.css.map"
 }
